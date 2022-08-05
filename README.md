@@ -1,2 +1,2 @@
-# Novo_microblog
- Projeto realizado em aula (CBD).
+# microblog-vagner
+ Criação de microblog
